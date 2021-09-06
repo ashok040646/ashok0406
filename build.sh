@@ -1,4 +1,4 @@
-cd src...ashok
+cd src...ashok ..kumar
 mkdir -p WEB-INF/classes
 echo .
 javac -d WEB-INF/classes com/snakes/model/Media.java
